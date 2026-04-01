@@ -1,2 +1,4 @@
-# nas_oficialni_git
-Náš oficiální GitHub Repozitář
+# nas\_oficialni\_git
+
+Náš oficiální GitHub Repozitář pro učení
+
